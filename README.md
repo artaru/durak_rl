@@ -10,7 +10,7 @@ Durak provides a complex multi-agent environment with imperfect information and 
 * Human vs AI – Play interactively against trained agents for qualitative evaluation.
 
 ## Main Parts
-*train.py – Handles model training with Actor-Critic and self-play setup.
-*elo_eval.py – Evaluates models against each other using Elo scores.
-*play_game.py – Interactive gameplay interface for human vs AI.
+* train.py – Handles model training with Actor-Critic and self-play setup.
+* elo_eval.py – Evaluates models against each other using Elo scores.
+* play_game.py – Interactive gameplay interface for human vs AI.
 
