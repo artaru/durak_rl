@@ -8,6 +8,8 @@ This project explores training reinforcement learning agents to play the Russian
 
 Durak provides a complex multi-agent environment with imperfect information and evolving strategies, making it an interesting challenge for reinforcement learning implementation.
 
+## Model
+This implementation employs Proximal Policy Optimization (PPO) with Adaptive Self-Play to train a deep neural network for playing Durak. The system uses a shared-backbone Actor-Critic architecture with action masking for legal move enforcement and maintains a dynamic opponent pool with curriculum learning strategies. Training incorporates Generalized Advantage Estimation (GAE), entropy-based exploration bonuses, gradient clipping, and automatic opponent updates based on performance thresholds. 
 
 ## Features
 * Durak Environment – Custom game environment with rules, actions, and strategy dynamics.
