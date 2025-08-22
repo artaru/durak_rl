@@ -1,6 +1,6 @@
 # Durak AI – Reinforcement Learning Agents
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/25918a23-ef1b-46d5-b105-33b39920d5eb" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/25918a23-ef1b-46d5-b105-33b39920d5eb" />
 
 This project explores training reinforcement learning agents to play the Russian card game Durak. Using an PPO Actor-Critic framework, agents are trained through self-play and evaluated to measure relative skill progression. The project also includes an interactive mode where humans can play directly against trained AI models.
 
