@@ -8,6 +8,7 @@ This project explores training reinforcement learning agents to play the Russian
 
 Durak provides a complex multi-agent environment with imperfect information and evolving strategies, making it an interesting challenge for reinforcement learning implementation.
 
+
 ## Features
 * Durak Environment – Custom game environment with rules, actions, and strategy dynamics.
 * Actor-Critic Training – Self-play reinforcement learning with policy and value updates.
