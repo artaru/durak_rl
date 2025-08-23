@@ -1,6 +1,6 @@
 # Durak AI – Reinforcement Learning Agents
 <p align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/25918a23-ef1b-46d5-b105-33b39920d5eb" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/c6a9a21b-d118-453e-822b-fe9dc95ad6fb" />
 </p>
 
 
